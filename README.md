@@ -1,4 +1,4 @@
-# JA3-Signature-Mapping-for-TOR-
+# JA3-Signature-Mapping-for-TOR
 Automate pulling down all versions of Tor, browser installation, execution, packet collection, and JA3 signature creation
 ## Overview
 - Ja3SignatureMapping.py and Ja3SignatureMappingLinux.py are used for to automate Tor browser installation, exection, and packet collection (tailored pcap creation) on Windows and Linux respectively.
