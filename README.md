@@ -21,4 +21,4 @@ Automate pulling down all versions of Tor, browser installation, execution, pack
 ## Linux and Windows results
 - If you are simply interested in the results of this project they can be found here https://CoolHandSquid/JA3-Signature-Mapping-for-TOR/Outfiles
 ## Contact
-Please contact me at coolhandsquid@yahoo.com for suggestions and ideas!
+Please contact me at YCSquilly@gmail.com for suggestions and ideas!
